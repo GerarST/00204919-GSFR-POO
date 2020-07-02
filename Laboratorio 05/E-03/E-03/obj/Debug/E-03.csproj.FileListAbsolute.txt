@@ -1,0 +1,5 @@
+C:\Users\GerarST\Documents\Workspaces\00204919-GSFR-POO\Laboratorio 05\E-03\E-03\bin\Debug\E_03.exe
+C:\Users\GerarST\Documents\Workspaces\00204919-GSFR-POO\Laboratorio 05\E-03\E-03\bin\Debug\E_03.pdb
+C:\Users\GerarST\Documents\Workspaces\00204919-GSFR-POO\Laboratorio 05\E-03\E-03\obj\Debug\E-03.csprojAssemblyReference.cache
+C:\Users\GerarST\Documents\Workspaces\00204919-GSFR-POO\Laboratorio 05\E-03\E-03\obj\Debug\E_03.exe
+C:\Users\GerarST\Documents\Workspaces\00204919-GSFR-POO\Laboratorio 05\E-03\E-03\obj\Debug\E_03.pdb
